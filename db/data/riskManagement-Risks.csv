@@ -1,0 +1,6 @@
+ID;name;description;impact;criticality;mitigation_ID
+05886436-3aad-4832-903f-f2bcac451f38;Data Breach;Risk of unauthorized access to sensitive data.;10000;8;5f9c2337-b8e4-4294-a5e4-aaf595ee9726
+86bf2b30-4fae-4145-bcd2-16913908ef58;Fire Hazard;Risk of fire in the building.;5000;6;05886436-3aad-4832-903f-f2bcac451f38
+4028a1df-9d5d-428a-9cf9-1c2a05c9cbaf;Employee Turnover;Risk of high employee turnover.;2000;4;4028a1df-9d5d-428a-9cf9-1c2a05c9cbaf
+5f9c2337-b8e4-4294-a5e4-aaf595ee9726;Supply Chain Disruption;Risk of disruption in the supply chain.;15000;9;86bf2b30-4fae-4145-bcd2-16913908ef58
+687d0d9e-cf57-4efc-92e2-27fcfa2435cf;Financial Fraud;Risk of financial fraud.;8000;7;687d0d9e-cf57-4efc-92e2-27fcfa2435cf
